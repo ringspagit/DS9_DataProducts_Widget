@@ -44,7 +44,7 @@ transpose(tots_table)[2,] %>% kable(
 </font>
 
 ## National Park Widget
-The national park widget is a shiny app that will provide easy access to examine this data to examine trends, either across all parks or by individual park.  The widget will fit either a spline regression (default), or simple linear regression.
+The national park widget is a shiny app that will provide easy access to examine trends in this data, either across all parks or by individual park.  The widget will fit either a spline regression (default), or simple linear regression.
 
 The following user inputs will be available:
 
